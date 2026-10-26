@@ -1,6 +1,6 @@
-### Hey, I'm Eli 👋
+### Hi, I'm Eli 
 
-📍 Tampa, FL · often in San Francisco
+📍 Homebase: Tampa, FL · regularly in San Francisco
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -16,12 +16,7 @@
 
 I build brand sites, AI agents and internal tools for businesses. Director of AI Enablement at Ventura Law Center and founder of [365 Founder](https://365founder.com), an AI consultancy. I also coach and tutor adults and kids in AI.
 
-#### What I'm building
-🧗 **[Ascender](https://ascender.rocks)** · climbing log and social app that reads your form from video. React Native in Expo, out on the App Store and Google Play in open beta.
-
-🤖 **Enzo** · an agent with its own memory and identity that assigns itself work. It got a paid subscriber in 24 hours, unprompted.
-
-#### Also shipped
+#### Shipped
 🏁 **[Drivari](https://drivari.com)** · club site, member portal and iOS and Android app for a driving rally club. Ran a live five-day rally in September 2026.
 
 🗳️ **[DemocratMail](https://democratmail.com)** · storefront and client portal where campaigns price, pay for, approve and track union-printed mail.
@@ -32,21 +27,19 @@ I build brand sites, AI agents and internal tools for businesses. Director of AI
 
 ⚖️ **Legal intake** · voice agents that screen callers in English, Spanish and Portuguese, plus case reconciliation and lead scoring that run unattended.
 
-🎟️ **Suite tickets** · suite owners share tickets with approved guests by link.
-
 #### Hackathons
 📊 **[VoterHack](https://github.com/365founder/VoterHack)** · live Bayesian turnout estimates for every San Francisco precinct. Built in 3 hours.
 
-🎁 **[datawrapped](https://github.com/365founder/datawrapped)** · a real time Spotify Wrapped for any data export, plus a context file an agent can read. Shipped in under 2 hours at a GitHub hack night.
+🎁 **[datawrapped](https://github.com/365founder/datawrapped)** · a real time Spotify Wrapped for any data export, plus a context file an agent can read. Github Hack Night
 
-#### Stack I reach for
-**web:** TypeScript, React, Next.js, Tailwind, Supabase, Postgres, Stripe
+#### Stack Experience
+**web:** TypeScript, React, React Native, Next.js, Tailwind, Supabase, Postgres, Stripe, Astro, PostGresSQL
 
-**mobile:** React Native, Expo, RevenueCat, MediaPipe
+**SDKs:** React Native, Expo, RevenueCat, MediaPipes (vision)
 
 **AI & automation:** Claude Code, OpenAI API, ElevenLabs, Zapier, n8n, Neo4j
 
-#### Off the keyboard
-🧗 V6 bouldering · ✈️ 18-month travel streak · 🏎️ karting · 🎿 skiing · 📷 [photography](https://365founder.com/photography)
+#### Off the web
+🧗 V6 bouldering · ✈️ 18-month travel streak · 🏎️ karting · 🎿 skiing · (https://365founder.com/hobbies)
 
 [365founder.com](https://365founder.com) · [elias@365founder.com](mailto:elias@365founder.com) · [LinkedIn](https://www.linkedin.com/in/eliascheaney/) · [X](https://x.com/365founder)
